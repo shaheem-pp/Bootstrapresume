@@ -1,2 +1,2 @@
-# Bootstrapresume
-Created duplicate resume  using bootstrap
+# Bootstrap Resume
+Created a duplicate resume  using Bootstrap
